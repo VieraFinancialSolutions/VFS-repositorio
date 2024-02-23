@@ -1,8 +1,0 @@
-
-Streamlit version: 1.31.1
-Pandas version: 1.5.2
-NumPy version: 1.21.5
-YFinance version: 0.1.90
-Requests version: 2.28.1
-Plotly version: 5.9.0
-Beautiful Soup version: 4.11.1
